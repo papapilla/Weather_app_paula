@@ -1,0 +1,54 @@
+body {
+  font-family: "NTR", sans-serif;
+  margin: 50px;
+  color: #2f2e41;
+}
+h1 {
+  /* font-family: "Amatic SC", cursive; */
+  /* font-family: 'Roboto Condensed', sans-serif; */
+  color: white;
+}
+label {
+  color: #2f2e41;
+}
+h2 {
+  font-size: 40pt;
+}
+header {
+  padding-top: 5%;
+  padding-bottom: 3%;
+  margin-bottom: 5%;
+  background-color: #f9a826;
+}
+section {
+  margin-bottom: 5%;
+}
+h3,
+.city {
+  text-transform: uppercase;
+  color: #2f2e41;
+}
+.row {
+  --bs-gutter-x: 0;
+}
+.details {
+  margin-bottom: 0;
+  font-size: 12pt;
+  color: #ff6584;
+}
+.days {
+  font-size: 20pt;
+  background-color: whitesmoke;
+  font-family: "Amatic SC", cursive;
+}
+.bigicon {
+  font-size: 30pt;
+  color: #f9a826;
+}
+.smallicon {
+  font-size: 20pt;
+  text-align: left;
+}
+img {
+  margin: 10px;
+}
